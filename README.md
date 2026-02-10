@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🐉 AnimeShop</h1>
   <p>Interactive anime merchandise web store with modern animations and responsive design 👕🖤</p>
-  <a href="https://68d824c2fcc42fb40adc4396--spiffy-kringle-0e26e5.netlify.app/">
+  <a href="https://spiffy-kringle-0e26e5.netlify.app/">
     <img src="https://img.shields.io/badge/View_Live_Project-ff3e00?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   </a>
 </div>
